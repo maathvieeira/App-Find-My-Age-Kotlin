@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find My Age</string>
+    <string name="anos_nascimento">Digite o seu ano de nascimento:</string>
+    <string name="idade_aqui">Sua idade irá aparecer aqui!</string>
+</resources>
